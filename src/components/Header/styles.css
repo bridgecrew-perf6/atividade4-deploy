@@ -1,0 +1,48 @@
+.container-man{
+
+    background-color: white; 
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    
+    height: 65px;
+    padding: 0 7%;
+ }
+ 
+ .container-man ul{
+ 
+     list-style: none;
+     display: flex;
+     align-items: center;
+     
+ }
+ 
+ .container-man li{
+ 
+     padding: 0 20px;
+ }
+ 
+ .container-man li a{
+     text-decoration: none;
+     color:black;
+ }
+
+ .login {
+
+    text-decoration: none;
+     display: flex;
+    
+    padding: 0 20px;
+
+    align-items: center;
+}
+
+ .login a {
+
+    text-decoration: none;
+    color:black;
+    
+}
+
+
+.login a:hover {text-decoration: underline;}
